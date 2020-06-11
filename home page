@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>TICKET BOOKING</title>
+	<link rel="stylesheet" type="text/css" href="aboutt.css">
+</head>
+<body text=white bgcolor="blue">
+	<div class="home">
+	<a href="project.html" button class="btn">HOME</button></a>
+</div>
+	<br>
+	<br><br><br>
+<p><h1>Travel is fun and when it comes to train travel, we go into the bypaths and un-trodden depths of wilderness and travel explorations to tell .This mini project is about booking of train tickets easily.<br>
+	This project has been designed keeping the public in mind and making their lives more easier.<br>
+	This site can be used not only to book tickets but also find out many more things like holidays, tourist places , book meals etc.</h1><br><br>
+	<marquee><h1><u><b><i>THANK YOU</i></b></u><h1></marquee>
+</p>
+</body>
